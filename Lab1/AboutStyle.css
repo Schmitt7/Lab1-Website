@@ -1,0 +1,31 @@
+﻿
+
+body {
+}
+
+#MainBox {
+    border: 5px solid black;
+    margin: 20px;
+    text-align: center;
+}
+
+#holder {
+    border: 5px solid green;
+    margin: 20px;
+    padding: 20px;
+}
+
+#col1 {
+    background-color: cyan;
+    float: left;
+    width: 50%;
+    margin: 20px;
+}
+
+#col2 {
+    background-color: fuchsia;
+    width: 50%;
+    margin: 20px;
+    
+    
+}
